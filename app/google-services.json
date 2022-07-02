@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391681580414",
+    "project_id": "quick-chat-2aca7",
+    "storage_bucket": "quick-chat-2aca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391681580414:android:ed9bd06a80f94315c7272f",
+        "android_client_info": {
+          "package_name": "com.creativeitinstitute.quickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391681580414-0a4hiuiat8q2527gd5lo4c1djr880urt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFC_0JvzkW8WDBV8HdZGkh71DXK_hr7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391681580414-0a4hiuiat8q2527gd5lo4c1djr880urt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
